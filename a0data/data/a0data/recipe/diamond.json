@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " P ",
+    "PCP",
+    " P "
+  ],
+  "key": {
+    "P": "minecraft:piston",
+    "C": "minecraft:coal_block"
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

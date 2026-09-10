@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "C C",
+    "CSC",
+    "C C"
+  ],
+  "key": {
+    "S": "minecraft:stick",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "minecraft:rail",
+    "count": 16
+  }
+}
